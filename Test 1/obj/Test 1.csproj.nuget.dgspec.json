@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anhlee/Projects/Test 1/Test 1/Test 1.csproj": {}
+    "/Users/anhlee/Documents/GitHub/testmonstar/Test 1/Test 1.csproj": {}
   },
   "projects": {
-    "/Users/anhlee/Projects/Test 1/Test 1/Test 1.csproj": {
+    "/Users/anhlee/Documents/GitHub/testmonstar/Test 1/Test 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anhlee/Projects/Test 1/Test 1/Test 1.csproj",
+        "projectUniqueName": "/Users/anhlee/Documents/GitHub/testmonstar/Test 1/Test 1.csproj",
         "projectName": "Test 1",
-        "projectPath": "/Users/anhlee/Projects/Test 1/Test 1/Test 1.csproj",
+        "projectPath": "/Users/anhlee/Documents/GitHub/testmonstar/Test 1/Test 1.csproj",
         "packagesPath": "/Users/anhlee/.nuget/packages/",
-        "outputPath": "/Users/anhlee/Projects/Test 1/Test 1/obj/",
+        "outputPath": "/Users/anhlee/Documents/GitHub/testmonstar/Test 1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anhlee/.nuget/NuGet/NuGet.Config"
