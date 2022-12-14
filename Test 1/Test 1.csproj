@@ -8,4 +8,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Bai 4\" />
+    <None Remove="Bai 4\Interface\" />
+    <None Remove="Bai 4\Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Bai 4\" />
+    <Folder Include="Bai 4\Interface\" />
+    <Folder Include="Bai 4\Models\" />
+  </ItemGroup>
 </Project>
